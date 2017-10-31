@@ -1,0 +1,107 @@
+
+
+
+
+
+
+    {
+        "Name":"Club-Mate Granat",
+        "Fett":{
+            "gesamt":0,
+            "gesaettigt":0
+
+        },
+        "Kohlenhydrate":{
+            "geloest":5.3,
+            "zucker":5.3,
+            "gesamt":26.5
+        },
+        "Eiweis":0,
+        "Salz":0,
+        "Koffein":20,
+        "Brennwert":[95,23],
+        "Sonstiges":null,
+        "Volumen":0.5,
+        "Zutaten":"Wasser, Glukose-Fructosesirup, Zucker, Getränkegrundstoff (Mate-Tee-Extrakt mit mind. 0,4g Mate in 100ml Getränk,  Granatapfelsaft (1,5%), Säuerungsmittel, Zitronensäure, Kirschsaftkonzentrat, Johannisbeersaftkonzentrat, Koffein, natürliches Aroma), Kohlesäure"
+    },
+    {
+        "Name":"CLub-Mate ICET",
+        "Fett":{
+            "gesamt":0,
+            "gesaettigt":0
+
+        },
+        "Kohlenhydrate":{
+            "geloest":7,
+            "zucker":7,
+            "gesamt":35
+        },
+        "Eiweis":0,
+        "Salz":0,
+        "Koffein":22,
+        "Brennwert":[117,28],
+        "Sonstiges":null,
+        "Volumen":0.5,
+        "Zutaten":"Wasser, Glukose-Fructosesirup, Zucker, Getränkegrundstoff (Mate-Tee-Extrakt mit mind. 0,4g Mate in 100ml Getränk, Säuerungsmittel Zitronensäure, Koffein, natürliches Aroma, Farbstoff: Zuckerkulör E 150d), Kohlensäure"
+    },
+    {
+        "Name":"Fritz-Kola",
+        "Fett":{
+            "gesamt":"K.A.",
+            "gesaettigt":"K.A."
+
+        },
+        "Kohlenhydrate":{
+            "geloest":11,
+            "zucker":11,
+            "gesamt":36.3
+        },
+        "Eiweis":"K.A.",
+        "Salz":"K.A.",
+        "Koffein":25,
+        "Brennwert":[179,42],
+        "Sonstiges":null,
+        "Volumen":0.33,
+        "Zutaten":"natürliches Mineralwasser, Zucker, Kohlensäure, farbstoff ammonsulfit-zuckerkulör, säuerungsmittel Phosphorsäure, koffein, natürliches Aroma"
+    },
+    {
+        "Name":"Vitaperle Zitrone",
+        "Fett":{
+            "gesamt":0.1,
+            "gesaettigt":0.02
+
+        },
+        "Kohlenhydrate":{
+            "geloest":7.7,
+            "zucker":7.7,
+            "gesamt":38.5
+        },
+        "Eiweis":0.1,
+        "Salz":0.005,
+        "Koffein":null,
+        "Brennwert":[133,32],
+        "Sonstiges":null,
+        "Volumen":0.5,
+        "Zutaten":"Wasser, Zucker, Kohlensäure, Säuerungsmittel Citronensäure, natürliches Aroma"
+    },
+    {
+        "Name":"Vitaperle-Orange",
+        "Fett":{
+            "gesamt":0.1,
+            "gesaettigt":0.1
+
+        },
+        "Kohlenhydrate":{
+            "geloest":8.8,
+            "zucker":8.8,
+            "gesamt":44
+        },
+        "Eiweis":0.1,
+        "Salz":0.01,
+        "Koffein":null,
+        "Brennwert":[153,36],
+        "Sonstiges":"Vitamin C: 12 mg; Niacin: 2,4 mg; Pantothensäure. 0,9 mg; Vitamin B6: 0,21 mg",
+        "Volumen":0.5,
+        "Zutaten":"Wasser, Zucker, Kohlensäure, Orangensaftkonzentrat, Säuerungsmittel Citronensäure, Orangenextrakt, Vitaminmischung, Vitamin C, Niacin, Pantothensäure, Vitamin B6, natürliches Orangenaroma, Stabilisator Johannisbrotkernmehl, Farbstoff Beta-Carotin"
+    }
+]

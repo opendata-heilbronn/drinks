@@ -1,0 +1,115 @@
+{
+    "nutritions": [
+        {
+            "id": "4a26e1c6-06bd-4aca-91cb-abaa07d84929",
+            "name": "fat - total",
+            "unit": "gramm"
+        },
+        {
+            "id": "fdef6cf4-0bb5-4c8f-9843-21cb0d6505a2",
+            "name": "fat - saturated",
+            "unit": "gramm"
+        },
+
+        {
+            "id": "5b3620ec-90df-4a9a-9b61-141de0926121",
+            "name": "carb - soluted",
+            "unit": "gramm"
+        },
+        {
+            "id": "5b3620ec-90df-4a9a-9b61-141de0926122",
+            "name": "carb - sugar",
+            "unit": "gramm"
+        },
+        {
+            "id": "5b3620ec-90df-4a9a-9b61-141de0926123",
+            "name": "carb - total",
+            "unit": "gramm"
+        },
+        {
+            "id": "4c265f46-08c2-476e-a483-0837ff0e1392",
+            "name": "protein",
+            "unit": "gramm"
+        },
+        {
+            "id": "36fd3afe-d072-457f-89fa-f186fbb0d31d",
+            "name": "salt",
+            "unit": "gramm"
+        },
+        {
+            "id": "ce275ba4-136d-4ea7-b87e-3c07e98c5d56",
+            "name": "caffeine",
+            "unit": "mg"
+        },
+        {
+            "id": "07f9a4a8-bb4e-4cba-b28c-90c19dfb1dcb",
+            "name": "calories",
+            "unit": ""
+        },
+        {
+            "id": "a628a4ee-f5a0-42dd-95d4-c26da02ae483",
+            "name": "joule",
+            "unit": ""
+        }
+    ],
+    
+    "drinks": [
+        {
+            "name": "Club-Mate",
+            "volume":0.5,
+            "nutritions": [
+                {
+                    "id": "4a26e1c6-06bd-4aca-91cb-abaa07d84929",
+                    "amount": 0
+                },
+                {
+                    "id": "fdef6cf4-0bb5-4c8f-9843-21cb0d6505a2",
+                    "amount": 0
+                },
+                {
+                    "id": "5b3620ec-90df-4a9a-9b61-141de0926121",
+                    "amount": 5
+                },
+                {
+                    "id": "5b3620ec-90df-4a9a-9b61-141de0926122",
+                    "amount": 5
+                },
+                {
+                    "id": "5b3620ec-90df-4a9a-9b61-141de0926123",
+                    "amount": 25
+                },
+                {
+                    "id": "4c265f46-08c2-476e-a483-0837ff0e1392",
+                    "amount": 0
+                },
+                {
+                    "id": "36fd3afe-d072-457f-89fa-f186fbb0d31d",
+                    "amount": 0
+                },
+                {
+                    "id": "ce275ba4-136d-4ea7-b87e-3c07e98c5d56",
+                    "amount": 20
+                },
+                {
+                    "id": "07f9a4a8-bb4e-4cba-b28c-90c19dfb1dcb",
+                    "amount": 20
+                },
+                {
+                    "id": "a628a4ee-f5a0-42dd-95d4-c26da02ae483",
+                    "amount": 84
+                }
+            ],
+            "ingredients": [
+                "Zutaten",
+                "Wasser",
+                "Glukose-Fructosesirup",
+                "Zucker",
+                "Getränkegrundstoff (Mate-Tee-Extrakt mit mind. 0,4g Mate in 100ml Getränk",
+                "Säuerungsmittel Zitronensäure",
+                "karamelisierter Zuckersirup",
+                "Koffein (natürliches Aroma)",
+                "Kohlensäure"
+            ]
+        }
+    ]
+}

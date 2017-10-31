@@ -1,0 +1,38 @@
+<!Doctype html>
+<html>
+    <head>
+        <title>K&uuml;hlschrankgetr&auml;nkeinformationsstatistik</title>
+        <meta charset="UTF-8">
+
+        <link rel="stylesheet" href="style.css" type="text/css">
+    </head>
+    <body>
+        <header>
+            <span id="mainHeader">K&uuml;hlschrankgetr&auml;nkeinformationsstatistik</span>
+            <span id="smalHeader">K&uuml;hlschrankgetr&auml;nke-informationsstatistik</span>
+            <span id="smallerHeader">K&uuml;hlschrank- getr&auml;nke- informations- statistik</span>
+        </header>
+        <div id="container">
+            <div id="SideMenue">
+                <ul data-bind="foreach: nutritions">
+                    <li data-bind="text: name"></li>
+                </ul>
+            </div>
+            <div id="content">
+
+                <div class="drink" data-bind="foreach: drinks">
+                    <svg class="bottle" ></svg>
+                    <div data-bind="text: name"></div>
+                </div>
+
+                
+            </div>
+        </div>
+        <footer>&copy; Michael Hohenstein, 2017; Alle Angaben von den Flaschenetiketten</footer>
+        
+        
+        <script src="jquery.min.js"></script>
+        <script src="knockout.js"></script>
+        <script src="app.js"></script>
+    </body>
+</html>
